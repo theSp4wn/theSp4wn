@@ -1,6 +1,6 @@
 # Sp4wn Github
 
-![Sp4wn's GitHub stats](https://github-readme-stats.vercel.app/api?username=theSp4wn&show_icons=true&rank_icon=github&theme=transparent)
+![Sp4wn's GitHub stats](https://github-readme-stats.vercel.app/api?username=theSp4wn&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&count_private=true&theme=transparent)
 
 <div style="display: inline_block"><br>
   <a href="#" target="_blank"><img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
